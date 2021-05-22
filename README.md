@@ -1,4 +1,4 @@
-# Detection-of-False-Sharing
+# Detection of False Sharing
 ## Automation
 ```
 $ sudo su
