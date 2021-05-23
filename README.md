@@ -21,3 +21,10 @@ $ ./comp.sh
 $ ./exe.sh
 ```
 
+## Step4. Move Data set, Linux to Windows
+(cmd)
+```
+$ scp
+```
+
+
