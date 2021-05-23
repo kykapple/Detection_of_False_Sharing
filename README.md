@@ -26,6 +26,12 @@ $ ./exe.sh
 ```
 $ scp
 ```
+주피터 노트북 경로에 
+
+## Step5. 
+```
+주피터 노트북 실행 -> 특징 셀렉팅(확인)
+```
 
 
 ![image](https://user-images.githubusercontent.com/65501453/119259134-ba38a700-bc07-11eb-8b3e-ca176774dcf8.png)
