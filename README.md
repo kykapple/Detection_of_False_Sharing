@@ -1,6 +1,8 @@
 # Detection of False Sharing
-## Automation
+
+## How to install perf
 ```
+$
 $ sudo su
 ```
 
