@@ -440,5 +440,3 @@ void * func16(void *p)
 	count16 = mycount;
 #endif
 }
-
-
